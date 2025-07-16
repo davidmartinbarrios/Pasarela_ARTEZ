@@ -1,0 +1,63 @@
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.exe.config
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.exe
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.pdb
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.xml
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.AccessControl.dll
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Permissions.dll
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.AccessControl.xml
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Permissions.xml
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbprojAssemblyReference.cache
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\CrearProcedimientoDeXML.resources
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Resources.resources
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.GenerateResource.cache
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.CoreCompileInputs.cache
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.CopyComplete
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.exe
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.xml
+C:\Users\NP43.BIZKAIA\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.pdb
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.exe.config
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.exe
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.pdb
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.xml
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.AccessControl.dll
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Permissions.dll
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.AccessControl.xml
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Permissions.xml
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbprojAssemblyReference.cache
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\CrearProcedimientoDeXML.resources
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Resources.resources
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.GenerateResource.cache
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.CoreCompileInputs.cache
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.CopyComplete
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.exe
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.xml
+C:\Users\inigo.nutini\OneDrive - GFI\0_Nuti\9_N8\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.pdb
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.exe.config
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.exe
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.pdb
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\Pasarela_ARTEZ.xml
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.AccessControl.dll
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Permissions.dll
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Principal.Windows.dll
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.AccessControl.xml
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Permissions.xml
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\bin\Debug\System.Security.Principal.Windows.xml
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbprojAssemblyReference.cache
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\CrearProcedimientoDeXML.resources
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Resources.resources
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.GenerateResource.cache
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.CoreCompileInputs.cache
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.vbproj.CopyComplete
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.exe
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.xml
+C:\Proyectos\DocPasarela\Pasarela_ARTEZ\Pasarela_ARTEZ\obj\Debug\Pasarela_ARTEZ.pdb
