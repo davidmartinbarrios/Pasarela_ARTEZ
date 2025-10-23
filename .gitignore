@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userprefs
+
+# NuGet packages
+packages/
+*.nupkg
+
+# IDE caches
+.vs/
